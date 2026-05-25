@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Project",
+  "description": "A multi-page React dashboard with calendar, signature capture, and password strength tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
